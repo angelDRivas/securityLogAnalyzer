@@ -1,0 +1,5 @@
+Aug 19 08:10:21 server sshd[1234]: Failed password for root from 192.168.1.50 port 51234 ssh2
+Aug 19 08:10:25 server sshd[1235]: Failed password for admin from 192.168.1.50 port 51235 ssh2
+Aug 19 08:10:30 server sshd[1236]: Failed password for root from 192.168.1.50 port 51236 ssh2
+Aug 19 08:15:02 server sshd[1240]: Accepted password for angel from 192.168.1.20 port 51500 ssh2
+Aug 19 08:20:11 server sshd[1250]: Failed password for test from 10.0.0.15 port 52000 ssh2
