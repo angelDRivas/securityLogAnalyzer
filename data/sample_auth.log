@@ -3,3 +3,13 @@ Aug 19 08:10:25 server sshd[1235]: Failed password for admin from 192.168.1.50 p
 Aug 19 08:10:30 server sshd[1236]: Failed password for root from 192.168.1.50 port 51236 ssh2
 Aug 19 08:15:02 server sshd[1240]: Accepted password for angel from 192.168.1.20 port 51500 ssh2
 Aug 19 08:20:11 server sshd[1250]: Failed password for test from 10.0.0.15 port 52000 ssh2
+Aug 20 10:15:01 server sshd[1201]: Failed password for root from 192.168.1.50 port 51101 ssh2
+Aug 20 10:15:05 server sshd[1202]: Failed password for root from 192.168.1.50 port 51102 ssh2
+Aug 20 10:15:09 server sshd[1203]: Failed password for admin from 192.168.1.50 port 51103 ssh2
+Aug 20 10:15:13 server sshd[1204]: Failed password for admin from 192.168.1.50 port 51104 ssh2
+Aug 20 10:15:17 server sshd[1205]: Failed password for invalid user test from 192.168.1.50 port 51105 ssh2
+Aug 20 10:15:21 server sshd[1206]: Failed password for ubuntu from 192.168.1.50 port 51106 ssh2
+Aug 20 10:16:10 server sshd[1207]: Accepted password for angel from 192.168.1.25 port 51200 ssh2
+Aug 20 10:17:01 server sshd[1208]: Failed password for admin from 10.0.0.15 port 51300 ssh2
+Aug 20 10:17:08 server sshd[1209]: Failed password for admin from 10.0.0.15 port 51301 ssh2
+Aug 20 10:18:30 server sshd[1210]: Accepted password for angel from 192.168.1.25 port 51400 ssh2
